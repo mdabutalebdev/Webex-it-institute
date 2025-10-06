@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Family Meals Are Rich In Nutrition",
+    "author": "Owen Christ",
+    "level": "Beginner",
+    "price": "Free",
+    "badge": "Free",
+    "image": "https://example.com/family-meals.jpg",
+    "category": "Health & Fitness"
+  },
+  {
+    "id": 2,
+    "title": "Mastering Modern Web Development",
+    "author": "Sophia Allen",
+    "level": "Intermediate",
+    "price": "$49",
+    "badge": "Best Seller",
+    "image": "https://example.com/web-development.jpg",
+    "category": "Development"
+  },
+  {
+    "id": 3,
+    "title": "Photography for Beginners",
+    "author": "Liam Carter",
+    "level": "Beginner",
+    "price": "Free",
+    "badge": "Free",
+    "image": "https://example.com/photography.jpg",
+    "category": "Photography"
+  },
+  {
+    "id": 4,
+    "title": "Financial Planning & Investment Basics",
+    "author": "Ethan Ross",
+    "level": "Advanced",
+    "price": "$59",
+    "badge": "Hot",
+    "image": "https://example.com/finance.jpg",
+    "category": "Finance"
+  },
+  {
+    "id": 5,
+    "title": "Build a Brand Through Digital Marketing",
+    "author": "Olivia Green",
+    "level": "Intermediate",
+    "price": "$39",
+    "badge": "Featured",
+    "image": "https://example.com/marketing.jpg",
+    "category": "Marketing"
+  },
+  {
+    "id": 6,
+    "title": "Creative Thinking in Art & Design",
+    "author": "James Watson",
+    "level": "Beginner",
+    "price": "Free",
+    "badge": "New",
+    "image": "https://example.com/art-design.jpg",
+    "category": "Art & Design"
+  },
+  {
+    "id": 7,
+    "title": "Data Science Fundamentals",
+    "author": "Emma Johnson",
+    "level": "Intermediate",
+    "price": "$79",
+    "badge": "Trending",
+    "image": "https://example.com/data-science.jpg",
+    "category": "Data Science"
+  },
+  {
+    "id": 8,
+    "title": "Teaching & Academic Excellence",
+    "author": "William Brown",
+    "level": "Advanced",
+    "price": "$99",
+    "badge": "Pro",
+    "image": "https://example.com/teaching.jpg",
+    "category": "Teaching & Academics"
+  },
+  {
+    "id": 9,
+    "title": "Work-Life Balance & Lifestyle Design",
+    "author": "Charlotte Davis",
+    "level": "Beginner",
+    "price": "Free",
+    "badge": "Free",
+    "image": "https://example.com/lifestyle.jpg",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 10,
+    "title": "Personal Development & Motivation",
+    "author": "Henry Adams",
+    "level": "Intermediate",
+    "price": "$45",
+    "badge": "Top Rated",
+    "image": "https://example.com/personal-development.jpg",
+    "category": "Personal Development"
+  },
+  {
+    "id": 11,
+    "title": "Music Theory for Beginners",
+    "author": "Daniel White",
+    "level": "Beginner",
+    "price": "Free",
+    "badge": "New",
+    "image": "https://example.com/music.jpg",
+    "category": "Music"
+  },
+  {
+    "id": 12,
+    "title": "Business Strategy & Management",
+    "author": "Sophia Brown",
+    "level": "Advanced",
+    "price": "$69",
+    "badge": "Popular",
+    "image": "https://example.com/business.jpg",
+    "category": "Business"
+  }
+]
