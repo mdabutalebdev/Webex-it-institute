@@ -7,7 +7,7 @@ import Footer from "../Components/Sheared/Footer"
 const Root = () => {
   return (
     <div> 
-        <Navbar/>
+        <Navbar />
         <Outlet/>
         <Footer/>
     </div>

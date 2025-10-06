@@ -1,7 +1,10 @@
+import ContactUs from "../Components/junayed/ContackLeft"
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <div>
+      <ContactUs />
+    </div>
   )
 }
 
