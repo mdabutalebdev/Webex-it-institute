@@ -56,7 +56,7 @@ const AboutPage = () => {
 
   return (
     <div className="bg-white">
-      {/* Hero  */}
+      {/* Hero & bacground image */}
       <section
         className="relative w-full h-[450px] bg-cover bg-center"
         style={{

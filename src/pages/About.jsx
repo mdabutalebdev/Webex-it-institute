@@ -1,5 +1,5 @@
 import React from 'react'
-import AboutPage from '../Components/junayed/About'
+import AboutPage from '../Components/junayed/AboutSection'
 
 const About = () => {
   return (

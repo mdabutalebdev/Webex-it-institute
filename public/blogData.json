@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?auto=format&fit=crop&q=80&w=774",
+    "date": "August 10, 2020",
+    "views": 2601,
+    "title": "4 Learning Management System Design Tips For Better eLearning",
+    "excerpt": "We're obsessed with data these days, and for good reason: it's...",
+    "category": "VIDEO & TIPS"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=871",
+    "date": "August 10, 2020",
+    "views": 2622,
+    "title": "The Importance Of Intrinsic Motivation for Students",
+    "excerpt": "Senior students often invoke the mantra \"I have to do well ...",
+    "category": "HR AND L&D"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&q=80&w=870",
+    "date": "August 10, 2020",
+    "views": 1872,
+    "title": "A Better Alternative To Grading Student Writing",
+    "excerpt": "Great writing starts at the beginning, whether with an idea or ...",
+    "category": "BUSINESS"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80&w=932",
+    "date": "August 10, 2020",
+    "views": 1677,
+    "title": "It's Time To Think Differently About Writing In The Classroom",
+    "excerpt": "Limiting the craft of writing to a single content area has ...",
+    "category": "EDUCATION"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=870",
+    "date": "August 9, 2020",
+    "views": 1504,
+    "title": "How to Foster a Collaborative Learning Environment",
+    "excerpt": "Collaboration is key to success in any field, and education is no exception...",
+    "category": "TIPS"
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&q=80&w=870",
+    "date": "August 9, 2020",
+    "views": 1982,
+    "title": "The Rise of Micro-learning in Corporate Training",
+    "excerpt": "Bite-sized learning modules are becoming increasingly popular for busy professionals...",
+    "category": "HR AND L&D"
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&q=80&w=870",
+    "date": "August 8, 2020",
+    "views": 2100,
+    "title": "Effective Presentation Skills for Modern Business",
+    "excerpt": "Engage your audience and deliver your message with impact...",
+    "category": "BUSINESS"
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=900",
+    "date": "August 8, 2020",
+    "views": 2350,
+    "title": "Using Video Content to Boost Student Engagement",
+    "excerpt": "Visual learning can significantly improve comprehension and retention...",
+    "category": "VIDEO & TIPS"
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?auto=format&fit=crop&q=80&w=774",
+    "date": "August 7, 2020",
+    "views": 1245,
+    "title": "Gamification in Education: Making Learning Fun",
+    "excerpt": "Turn lessons into challenges and watch student motivation soar...",
+    "category": "EDUCATION"
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&q=80&w=870",
+    "date": "August 7, 2020",
+    "views": 2890,
+    "title": "The Future of AI in Personalized Learning",
+    "excerpt": "How artificial intelligence is tailoring education to individual student needs...",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&q=80&w=870",
+    "date": "August 6, 2020",
+    "views": 1788,
+    "title": "Building a Strong Team Culture in a Remote World",
+    "excerpt": "Strategies for fostering connection and collaboration among distributed teams...",
+    "category": "HR AND L&D"
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?auto=format&fit=crop&q=80&w=687",
+    "date": "August 6, 2020",
+    "views": 2050,
+    "title": "Mindfulness and Well-being for a Productive Classroom",
+    "excerpt": "Creating a calm and focused learning environment benefits both students and teachers...",
+    "category": "TIPS"
+  }
+]
