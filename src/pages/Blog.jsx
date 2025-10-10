@@ -1,7 +1,11 @@
+import BlogSection from "../Components/junayed/BlogSection"
+
 
 const Blog = () => {
   return (
-    <div>Blog</div>
+    <div>
+      <BlogSection />
+    </div>
   )
 }
 
