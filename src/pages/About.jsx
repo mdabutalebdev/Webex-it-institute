@@ -1,8 +1,11 @@
 import React from 'react'
+import AboutPage from '../Components/junayed/AboutSection'
 
 const About = () => {
   return (
-    <div>About</div>
+    <div>
+      <AboutPage />
+    </div>
   )
 }
 
