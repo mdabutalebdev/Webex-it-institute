@@ -114,7 +114,7 @@ const Navbar = () => {
                   }
                   to={`/contact`}
                 >
-                  Contuct
+                  Contact
                 </NavLink>
               </li>
             </ul>
